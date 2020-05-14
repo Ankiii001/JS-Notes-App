@@ -1,5 +1,5 @@
 # JS-Notes-App
-For working demo of application [click here](#https://notes-maker.netlify.app/)
+For working demo of application [click here](https://notes-maker.netlify.app/)
 
 ## Technologies
 Project is created with:
